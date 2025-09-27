@@ -18,3 +18,4 @@ go to logout and check cookie is deleted in database: kết quả sau khi logout
 ![logout](./public/img/6.png)
 ![logout](./public/img/7.png)
 
+![cookie](./public/img/8.png)
